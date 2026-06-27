@@ -185,6 +185,8 @@ Before installing or using any Agent Skill, review potential security risks and 
 
 **Recommended tools:**
 
+
+- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) - AI-native software delivery framework with PRD generation, prototype governance, Interaction Ledger (12x compression), FRR Completion Gate, and 3 work paths (Traditional/AI Native/AI Coding). 4 domain modules included.
 - [Snyk Skill Security Scanner](https://github.com/snyk/agent-scan)
 - [Agent Trust Hub](https://ai.gendigital.com/agent-trust-hub)
   
