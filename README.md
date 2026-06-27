@@ -196,6 +196,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 
 ## Table of Contents
 
+- [AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side delivery: PRDs, prototypes, IA Skeleton, FRR, AC-YAML, coding-agent handoff. 4 domain modules.
 | | | |
 |---|---|---|
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (103) | [Communication](#communication) (146) |
